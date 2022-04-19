@@ -1,0 +1,67 @@
+Cơ bản
+
+    Kiến thức:
+        Cấu trúc dữ liệu: 40 câu hỏi phỏng vấn cấu trúc dữ liệu.
+        Thuật toán: 30 câu hỏi phỏng vấn thuật toán.
+        Hướng đối tượng: 40 câu hỏi phỏng vấn OOP.
+        Design Patterns: 28 câu hỏi phỏng vấn design pattern.
+        Hệ điều hành: 40 câu hỏi phỏng vấn hệ điều hành.
+        Mạng máy tính: 35 câu hỏi phỏng vấn mạng máy tính.
+        An ninh mạng: 42 câu hỏi phỏng vấn an ninh mạng.
+    Ngôn ngữ lập trình:
+        C++: 28 Câu hỏi phỏng vấn C++.
+
+Cơ sở dữ liệu
+
+    Kiến thức:
+        MySQL: 31 câu hỏi phỏng vấn MySQL.
+        PostgreSQL: 26 câu hỏi phỏng vấn PostgreSQL.
+        MongoDB: 24 câu hỏi phỏng vấn MongoDB.
+    Ngôn ngữ lập trình:
+        SQL: 40 câu hỏi phỏng vấn SQL.
+
+Frontend
+
+    Kiến thức:
+        Web API: 13 câu hỏi phỏng vấn Web API.
+        React: 40 câu hỏi phỏng vấn ReactJS.
+        HTML: 62 câu hỏi phỏng vấn HTML.
+        CSS: 54 câu hỏi phỏng vấn CSS.
+    Ngôn ngữ lập trình:
+        JavaScript: 30 câu hỏi phỏng vấn JavaScript.
+        ES6: 39 câu hỏi phỏng vấn ES6.
+        TypeScript: 50 câu hỏi phỏng vấn TypeScript.
+
+Backend
+
+    Kiến thức:
+        Web Services: 35 câu hỏi phỏng vấn dịch vụ Web.
+        Node.js: 36 câu hỏi phỏng vấn Node.js.
+        Django: 37 câu hỏi phỏng vấn Django.
+        Nginx: 18 câu hỏi phỏng vấn Nginx.
+        WebSocket: 12 câu hỏi phỏng vấn WebSocket.
+        Microservice: 30 câu hỏi phỏng vấn Microservices.
+    Ngôn ngữ:
+        C#: 30 câu hỏi phỏng vấn C#.
+        PHP: 33 câu hỏi phỏng vấn về PHP.
+        Python: 37 câu hỏi phỏng vấn Python.
+            Numpy: 11 câu hỏi phỏng vấn NumPy.
+            Pandas: 10 câu hỏi phỏng vấn Pandas.
+
+Devops
+
+    Kiến thức
+        DevOps cơ bản: 35 câu hỏi phỏng vấn DevOps.
+        Docker: 35 câu hỏi phỏng vấn Docker.
+        Kubernetes: 26 câu hỏi phỏng vấn Kubernetes.
+    Ngôn ngữ lập trình:
+        Golang: 30 câu hỏi phỏng vấn Golang.
+
+Mobile
+
+    Kiến thức
+        Android: 39 câu hỏi phỏng vấn về Android.
+        iOS: 36 câu hỏi phỏng vấn về iOS.
+        React Native: 30 câu hỏi phỏng vấn về React Native.
+    Ngôn ngữ lập trình:
+        Java: 54 câu hỏi phỏng vấn về Java.
